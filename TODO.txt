@@ -1,0 +1,13 @@
+Make SbQuantiles and TreeNode templates. The number of bits in the
+universe and SBQ_TEST should be template parameters.
+
+Improve performance of SbQuantiles::rank and SbQuantiles::quantile.
+
+Investigate if it is possible to merge Node::L and Node::w into a
+union to save some space.
+
+Use a custom allocator to measure memory usage.
+
+Adapt space bound to sbq and add it to test_invariants.
+
+Implement SbQuantiles::merge.
