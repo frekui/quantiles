@@ -21,7 +21,7 @@ O(log(U) &middot; 1/&epsilon; &middot; (log(&epsilon; N) + log(U))). See rank an
 ## insert(x)
 Precondition: x is an integer such that 0 &le; x < U.
 
-Insert x. Amortized time complexity: O(U).
+Insert x. Amortized time complexity: O(log(U)).
 
 ## rank(x)
 Precondition: x is an integer such that 0 &le; x < U.
