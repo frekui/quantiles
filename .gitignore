@@ -1,0 +1,15 @@
+*.o
+*.d
+*~
+*.gcno
+*.gcda
+*.gcov
+minimal
+benchmark
+example
+test
+test-cov
+test-big
+test-big-cov
+covout/
+coverage.info
