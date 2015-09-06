@@ -59,5 +59,5 @@ Tests.
 
 # License
 
-See [`LICENSE.txt`](LICENSE.txt). Copyright (c) 2015 Fredrik Kuivinen,
-frekui@gmail.com.
+The MIT license, see [`LICENSE.txt`](LICENSE.txt) for details.
+Copyright (c) 2015 Fredrik Kuivinen, frekui@gmail.com.
